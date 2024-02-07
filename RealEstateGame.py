@@ -1,6 +1,5 @@
 # Author: Katie Booth
 # GitHub username: boothcat
-# Date: 06/03/2022
 # Description: Defines class RealEstateGame which represents the Real Estate Game with game players and game spaces.
 #              Defines methods for creating spaces, creating players, moving players around the circular board, buying
 #              properties, paying rent, and checking if the game has a winner.
