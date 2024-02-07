@@ -41,7 +41,6 @@ Game stats for each player with their current position, list of owned properties
 * get_owner - takes the space number as a parameter and returns the current owner, None is no owner and False if GO space.
 * set_position - takes the player's name and the space to move that player as parameters. Moves the player to that space.
 * set_balance - takes the player's name and balance as parameters and overwrite's the player's balance to the provided amount.
-* 
 * buy_space - takes as parameters the name of the player
   * The player can buy a space if their balance is greater than the purchase price and the space has no owner.
     * The purchase price of the space is deducted from the player's account
