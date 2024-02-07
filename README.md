@@ -19,7 +19,7 @@ Non-owner players must pay rent.  A bonus is awarded for passing the "GO" space.
 
 Game stats for each player with their current position, list of owned properties, and balance are displayed at the end of the round. The user is asked if they would like to continue playing.
 
-![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/f5899491-7f74-413a-87bf-039849099c18)
+![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/b5d17f24-75ee-4695-959b-efa236473b41)
 
 ## RealEstateGame class methods 
 * create_spaces - takes two optional parameters: the amount of money given to players when they land on or pass the "GO" space, and an array of 24 integers (rent amounts). Default values for the parameters are provided. 
