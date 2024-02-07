@@ -9,9 +9,17 @@ An example of how the RealEstateGame class methods are called to create a game i
 
 ![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/1b8b727c-5b8c-4d16-9c01-b8072fbfcd17)
 
+Each player rolls the dice (randomly generated number 1-6) and moves to the designated space. If the property is available and the player has a balance greater than the purchase price, the player can choose to purchase the property.
 
+![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/ac82350c-c2aa-46b1-8a1c-8b6d3f1c4a28)
 
+Non-owner players must pay rent.  A bonus is awarded for passing the "GO" space.  
 
+![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/827e70ee-3ec6-418d-93df-5bb8d35ae8fe)
+
+Game stats for each player with their current position, list of owned properties, and balance are displayed at the end of the round. The user is asked if they would like to continue playing.
+
+![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/f5899491-7f74-413a-87bf-039849099c18)
 
 ## RealEstateGame class methods 
 * create_spaces - takes two optional parameters: the amount of money given to players when they land on or pass the "GO" space, and an array of 24 integers (rent amounts). Default values for the parameters are provided. 
