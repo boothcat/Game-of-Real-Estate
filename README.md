@@ -6,6 +6,7 @@ The class RealEstateGame is a multi-player simplified version of the game Monopo
 Players start at the "GO" space, take turns rolling a single die (number generated randomly), and move around the circular board spaces.  Players recieve an initial sum of money and a bonus amount for passing the GO space. With the exception of the GO space, each space on the board is available for purchase. Once purchased, non-owner players who land on the space must pay rent.  When a player runs out of money, that player becomes inactive and forfeits all properties. The game continues until only one player with money remains. 
 ## Driver Code
 An example of how the RealEstateGame class methods are called to create a game is provided at the end of the RealEstateGame.py file.  The user specifies the number of players (1-10) and provides unique player names.  The user also has the option to add the computer as an opponent. 
+
 ![image](https://github.com/boothcat/Real-Estate-Game/assets/97126252/1b8b727c-5b8c-4d16-9c01-b8072fbfcd17)
 
 
